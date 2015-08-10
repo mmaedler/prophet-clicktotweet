@@ -13,7 +13,7 @@ class PbsClickToTweet {
 	private $default_atts = array(
 		"popup_width" 			=> 600,
 		"popup_height"			=> 260,
-		"popup_url"				=> "https://twitter.com/intent/tweet?text=&s&url=%s",
+		"popup_url"				=> "https://twitter.com/intent/tweet?text=%s&url=%s",
 		// automatically truncates the tweet to (140-truncate_url_length) char long string:
 		"truncate"				=> true,
 		// the amount of chars that should be deducted from the tweet text to fit url in (if truncate == true):

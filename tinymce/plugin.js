@@ -51,7 +51,7 @@
                 author : 'Moritz Mädler',
                 authorurl : 'http://prophet.com',
                 infourl : 'http://github.com/mmaedler',
-                version : "0.1"
+                version : "1.0"
             };
         }
     });
