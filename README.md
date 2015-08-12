@@ -20,7 +20,18 @@ To install the plugin you need a user that has administrative rights as well as 
 ## General Usage
 
 The plugin is designed to work as a short code you can place anywhere into a post or page body.
-To include the plugin in a post or page body use the following shortcode: `[clicktotweet]tweetable text[/clicktotweet]`. If you want to send other text to twitter then you have marked, use the `tweet` attribute in the shortcode: `[clicktotweet tweet="tweet that is actually sent to twitter"]highlighted text[/clicktotweet]`.
+To include the plugin in a post or page body use the following shortcode: 
+
+```
+[clicktotweet]tweetable text[/clicktotweet]
+```
+
+If you want to send other text to twitter then you have marked, use the `tweet` attribute in the shortcode: 
+
+```
+[clicktotweet tweet="tweet that is actually sent to twitter"]highlighted text[/clicktotweet]
+```
+
 
 ## Attribute Reference
 
