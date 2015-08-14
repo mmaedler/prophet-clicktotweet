@@ -1,4 +1,4 @@
-# ![Prophet Brand Strategy](https://avatars3githubusercontentcom/u/13744340?v=3&s=25) ClickToTweet Reference
+# ![Prophet Brand Strategy](https://avatars3.githubusercontent.com/u/13744340?v=3&s=25) ClickToTweet Reference
 ***
 ***
 
